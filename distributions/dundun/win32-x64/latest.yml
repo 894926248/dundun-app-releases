@@ -1,12 +1,12 @@
-version: 2.0.36
-sourceRevision: 3343df9bf57afc1daffc98821c97b528d824a083
+version: 2.0.38
+sourceRevision: 113a1cc67574097d14ccaefaf8b22020fe2c9042
 distributionId: dundun
 appId: space.dundun.desktop
 platform: win32-x64
 files:
-  - url: https://github.com/894926248/dundun-app-releases/releases/download/dundun-v2.0.36/dundun-2.0.36-Windows-x64-Setup.exe
-    sha512: zyq5Zfc8jZ0NpLGvoBGPbfttnILy8OuoyMtbZBIbWPqQBqDPQY87P9yZ2QzQ2HckR+ui4LSQ4rs+O9khpt2UCA==
-    size: 319996610
-path: https://github.com/894926248/dundun-app-releases/releases/download/dundun-v2.0.36/dundun-2.0.36-Windows-x64-Setup.exe
-sha512: zyq5Zfc8jZ0NpLGvoBGPbfttnILy8OuoyMtbZBIbWPqQBqDPQY87P9yZ2QzQ2HckR+ui4LSQ4rs+O9khpt2UCA==
-releaseDate: 2026-11-22T08:38:11.210Z
+  - url: https://github.com/894926248/dundun-app-releases/releases/download/dundun-v2.0.38/dundun-2.0.38-Windows-x64-Setup.exe
+    sha512: QvuIMQ5NikTYOswogELn6zDZygabNIlfMeO5tagYwsmu+Ui2BhkTZOCYAEuLltUsOAXoQoxXwugYOYtWVqzGvw==
+    size: 319942079
+path: https://github.com/894926248/dundun-app-releases/releases/download/dundun-v2.0.38/dundun-2.0.38-Windows-x64-Setup.exe
+sha512: QvuIMQ5NikTYOswogELn6zDZygabNIlfMeO5tagYwsmu+Ui2BhkTZOCYAEuLltUsOAXoQoxXwugYOYtWVqzGvw==
+releaseDate: 2026-11-23T04:26:54.183Z
